@@ -1,6 +1,6 @@
-# mqtt_project
+# MQTT_Project
 
-A new Flutter project.
+Project นี้เป็นการเชื่อมต่อของ Mobile และอุปกรณ์ IoT
 
 ## Getting Started
 

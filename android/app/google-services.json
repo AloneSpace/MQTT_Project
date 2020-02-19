@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "33261672487",
+    "firebase_url": "https://mqttproject-24361.firebaseio.com",
+    "project_id": "mqttproject-24361",
+    "storage_bucket": "mqttproject-24361.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33261672487:android:54466c9ee1e9a1e7039602",
+        "android_client_info": {
+          "package_name": "com.alonecoding.mqtt_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33261672487-i18ulmv5h7sa0rkf0n4j306q6d3ff6if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATM0TZnvDF2lJa63AqbejjJfW25uYbaXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33261672487-i18ulmv5h7sa0rkf0n4j306q6d3ff6if.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

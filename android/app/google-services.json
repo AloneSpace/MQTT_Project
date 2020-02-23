@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "33261672487-bias3j918ierjnn29nqallaulgk518aj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alonecoding.mqtt_project",
+            "certificate_hash": "a67fb928dc3b7a9f77f2171b0b0cd9f9655fe807"
+          }
+        },
+        {
           "client_id": "33261672487-i18ulmv5h7sa0rkf0n4j306q6d3ff6if.apps.googleusercontent.com",
           "client_type": 3
         }
